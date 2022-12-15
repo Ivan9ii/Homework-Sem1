@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1\\Sem1.csproj": {}
+    "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1_homework\\Sem1_homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1\\Sem1.csproj": {
+    "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1_homework\\Sem1_homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1\\Sem1.csproj",
-        "projectName": "Sem1",
-        "projectPath": "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1\\Sem1.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1_homework\\Sem1_homework.csproj",
+        "projectName": "Sem1_homework",
+        "projectPath": "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1_homework\\Sem1_homework.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Иван\\C#\\Seminar 1\\Sem1_homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
